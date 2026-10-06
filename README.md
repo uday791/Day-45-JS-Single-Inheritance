@@ -1,0 +1,1 @@
+# Day-45-JS-Single-Inheritance
